@@ -1,4 +1,4 @@
-img{
+img {
   max-width:300px;
   position:fixed;
   margin-top:0px;
@@ -90,29 +90,29 @@ div {
 
 }
 .menu_simple ul {
-margin: 0;
-padding: 0;
-width:185px;
-list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:185px;
+  list-style-type: none;
 }
 .menu_simple ul li a {
-text-decoration: none;
-font-family: Helvetica;
-font-size:  70%;
-font-style: normal;
-font-variant: none;
-font-weight: lighter;
-color: white;
-padding: 10.5px 11px;
-background-color: black;
-display:block;
+  text-decoration: none;
+  font-family: Helvetica;
+  font-size:  70%;
+  font-style: normal;
+  font-variant: none;
+  font-weight: lighter;
+  color: white;
+  padding: 10.5px 11px;
+  background-color: black;
+  display:block;
 }
 .menu_simple ul li a:visited {
-color: white;
+  color: white;
 }
 .menu_simple ul li a:hover, .menu_simple ul li .current {
-color: white;
-background-color: gray;
+  color: white;
+  background-color: gray;
 }
 
 }
