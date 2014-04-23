@@ -1,13 +1,9 @@
 img {
-  max-width:300px;
-  position:fixed;
-  margin-top:0px;
-  margin-right:0%;
-  margin-bottom:0%;
-  margin-left:0px;
-  float:left;
+
 
   }
+
+
 input{
   position: right;
   float:right;
@@ -24,45 +20,49 @@ body{
   margin-bottom:0%;
   margin-left:0%;
 
-  padding-top:5%;
+  padding-top:0%;
   padding-right:0%;
   padding-bottom:10%;
   padding-left:0%;
 
   background-attachment: scroll;
-  background-color:#C1C1C1;
-  background-image: none;
+  background-color:gray;
+  background-image: ;
   background-position:;
+  background-padding-left:24,5%;
+  background-padding-right:;  
 }
 
 
- h1{ 
+ h2{ 
   font-family: Helvetica;
   color: #171313 ;
   font-size: 200%;
-  background: #C1C1C1;
+  background: none;
   line-height: 130%;
-  padding-top:0%;
+  padding-top:3%;
   padding-right:20%;
   padding-bottom:0%;
   padding-left:27%;
+  text-align:center;
 }
-h2{
+h3{
   color: #555 ;
   font-size: 100%;
   font-family: Helvetica;
   margin-left:40%;
+
 }  
 
-p {
+h4 {
 
   padding-top:0%;
-  padding-right:29%;
-  padding-bottom:10%;
-  padding-left:25%;
+  padding-right:31%;
+  padding-bottom:0%;
+  padding-left:35%;
 
   font-family: Helvetica;
-  font-size:  100%;
+  font-size:  80%;
   font-style: normal;
   font-variant: none;
   font-weight: lighter;
@@ -78,6 +78,33 @@ p {
   vertical-align: baseline;
   white-space: normal;
   word-spacing: normal;
+
+} 
+p {
+
+  padding-top:0%;
+  padding-right:33%;
+  padding-bottom:0%;
+  padding-left:38%;
+
+  font-family: Helvetica;
+  font-size:  70%;
+  font-style: normal;
+  font-variant: none;
+  font-weight: lighter;
+
+  color: black;
+  letter-spacing: normal;
+  line-height: 200%;
+  text-align:justify;
+  text-decoration: none ;
+
+  text-transform: none;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  white-space: normal;
+  word-spacing: normal;
+
 } 
 
 
@@ -104,17 +131,16 @@ div {
   font-weight: lighter;
   color: white;
   padding: 10.5px 11px;
-  background-color: black;
+  background-color: gray;
   display:block;
 }
 .menu_simple ul li a:visited {
   color: white;
 }
 .menu_simple ul li a:hover, .menu_simple ul li .current {
-  color: white;
-  background-color: gray;
+  color: gray;
+  background-color: white;
 }
 
 }
-
 
