@@ -136,6 +136,7 @@ div {
 }
 .menu_simple ul li a:visited {
   color: white;
+ 
 }
 .menu_simple ul li a:hover, .menu_simple ul li .current {
   color: gray;
